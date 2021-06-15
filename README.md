@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-built-using-vanilla-js-html5-and-css3-Q0Jm-O-XO)
+- [Live Site URL](https://sunnyside-agency-landing-page-omega.vercel.app/)
 
 ## My process
 
